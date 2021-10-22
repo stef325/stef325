@@ -12,8 +12,8 @@
 <!-- Github Stats ------------------------------------------------------------------------------------------------------------- -->
 <div>
   <a href="https://github.com/stef325">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=stef325&title_color=2069d6&text_color=193d91&bg_color=0a0d12&hide_border=true&border_radius=0&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stef325&layout=compact&langs_count=7&text_color=193d91&bg_color=0a0d12&hide_border=true&border_radius=0"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=stef325&title_color=2069d6&text_color=193d91&bg_color=0a0d12&hide_border=true&border_radius=0&show_icons=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stef325&layout=compact&langs_count=7&text_color=193d91&bg_color=0a0d12&hide_border=true&border_radius=0"/>
 </div>
 <!-- -------------------------------------------------------------------------------------------------------------------------- -->
   
